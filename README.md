@@ -33,15 +33,23 @@ Demonstrate your understanding of this week's concepts by answering the followin
 
 Edit this document to include your answers after each question. Make sure to leave a blank line above and below your answer so it is clear and easy to read.
 
-1. If you were to describe semantic HTML to the next cohort of students, what would you say?
+1. If you were to describe semantic HTML to the next cohort of students, what would you say?            
+    
+    it give more meaning, is easier to comprehend, and is good for search engine optimization.
 
 2. Name two big differences between ```display: block;``` and ```display: inline;```.
 
 3. What are the 4 areas of the box model?
+    
+    Every box is composed of four parts (or areas), defined by their respective edges: the content edge, padding edge, border edge, and margin edge
 
 4. While using flexbox, what axis does the following property work on: ```align-items: center```?
 
+    vertical axis
+
 5. Explain why git is valuable to a team of developers.
+
+     It's flexable and secure in the way teams need. It functions great and you can always go back to an old edit (push).
 
 You are expected to be able to answer all these questions. Your responses contribute to your Sprint Challenge grade. Skipping this section *will* prevent you from passing this challenge.
 
