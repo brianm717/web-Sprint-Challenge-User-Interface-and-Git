@@ -251,9 +251,23 @@ p {
     flex-wrap:wrap;
     justify-content:center;
     }
-.box{padding:15px
-    
-} 
+.box{padding:15px;
+     }
+     
+.button1 {border-radius: 8px;
+    font-weight: bold;
+}
+
+.button2 {border-radius: 8px;
+    font-weight: bold;
+}
+
+.button3 {border-radius: 8px;
+    font-weight: bold;
+}
+.button4 {border-radius: 8px;
+    font-weight: bold;
+}
 
 .box p{padding-bottom:3%;}
 
