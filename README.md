@@ -39,6 +39,8 @@ Edit this document to include your answers after each question. Make sure to lea
 
 2. Name two big differences between ```display: block;``` and ```display: inline;```.
 
+ with display: inline-block , the top and bottom margins/paddings are respected, but with display: inline they are not. Compared to display: block , the major difference is that display: inline-block does not add a line-break after the element, so the element can sit next to other elements.
+
 3. What are the 4 areas of the box model?
     
     Every box is composed of four parts (or areas), defined by their respective edges: the content edge, padding edge, border edge, and margin edge
